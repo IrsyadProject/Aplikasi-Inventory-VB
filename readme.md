@@ -2,6 +2,9 @@
 
 <p>Dibuat untuk keperluan tugas mahasiswa mata kuliah pemrograman visual</p>
 
+> [!CAUTION]
+> Jangan Lupa di like dan Star ya!!! Terima Kasih.
+
 # Tampilan
 
 <img src="Screenshot (26).png" width="50%" alt=""><hr>
